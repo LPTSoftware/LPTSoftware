@@ -1,5 +1,5 @@
 ## About @LPTSoftware
-.NET Developer focused on F#, C#, and TypeScript development in ASP.Net Core.
+.NET Developer focused on F#, C# development in ASP.Net Core.
 
 #### Interests:
 - DevOps
